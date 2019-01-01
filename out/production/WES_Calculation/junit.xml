@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="junit">
+    <ANNOTATIONS>
+      <root url="file://$USER_HOME$/idea/plugins/junit" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/idea/plugins/junit" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$USER_HOME$/idea/plugins/junit" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="file://$USER_HOME$/idea/plugins/junit" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file://$USER_HOME$/idea/plugins/junit" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/idea/plugins/junit" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/idea/plugins/junit" recursive="false" type="SOURCES" />
+  </library>
+</component>

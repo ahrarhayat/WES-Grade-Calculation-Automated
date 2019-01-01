@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="testng1">
+    <ANNOTATIONS>
+      <root url="file://$USER_HOME$/idea/plugins/testng" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/idea/plugins/testng" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$USER_HOME$/idea/plugins/testng" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="file://$USER_HOME$/idea/plugins/testng" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file://$USER_HOME$/idea/plugins/testng" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/idea/plugins/testng" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/idea/plugins/testng" recursive="false" type="SOURCES" />
+  </library>
+</component>
