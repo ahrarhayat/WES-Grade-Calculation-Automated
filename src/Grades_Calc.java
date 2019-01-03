@@ -70,10 +70,16 @@ public class Grades_Calc extends MainXpaths {
 
     }
     public int getnum(){
-        System.out.println("Please enter the number of courses with As");
+        String grade = "A";
+        int x=1;
+        x=x+2;
+        if(x==2){
+            grade = "A-";
+        }
+        System.out.println("Please enter the number of courses with "+ " "+grade+" s");
         Scanner number_of_courses = new Scanner(System.in);
-        int As = number_of_courses.nextInt();
-        return As;
+        int n = number_of_courses.nextInt();
+        return n;
 
 
     }
