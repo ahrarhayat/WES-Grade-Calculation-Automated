@@ -25,6 +25,12 @@ public class MainXpaths {
     String A="90";
     String AMinus="85";
     String Bplus= "80";
+    String AddBtnx="/html/body/div[2]/div[3]/div/div/form/div[4]/input";
+    String CalculateBtnx="/html/body/div[2]/div[3]/div/div/form/div[5]/input";
+    String B= "75";
+    String Bminus="70";
+    String Cplus="65";
+    String C="60";
 
 
 
